@@ -1,0 +1,1 @@
+singleNonDuplicate=n=>n.reduce((c,a)=>c^=a);
